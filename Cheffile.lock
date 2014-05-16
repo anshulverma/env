@@ -1,5 +1,5 @@
-SITE
-  remote: http://community.opscode.com/api/v1
+PATH
+  remote: /home/anshul/workspace/chef-cookbooks/nuaavee
   specs:
     nuaavee (0.1.0)
 

@@ -1,0 +1,6 @@
+DEPENDENCIES
+  nuaavee
+    path: ../chef-cookbooks/nuaavee
+
+GRAPH
+  nuaavee (0.1.0)

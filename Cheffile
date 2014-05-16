@@ -3,4 +3,4 @@
 
 site 'http://community.opscode.com/api/v1'
 
-cookbook 'nuaavee'
+cookbook 'nuaavee', :path => "/home/anshul/workspace/chef-cookbooks/nuaavee"
